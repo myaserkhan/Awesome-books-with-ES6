@@ -1,9 +1,2 @@
-class Book {
-  constructor(title, author, id) {
-    this.title = title;
-    this.author = author;
-    this.id = id;
-  }
-}
-
-Book();
+import './modules/myclass.js';
+import './modules/spa.js';
